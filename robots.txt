@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mirchrism-dev.github.io/mentor-iphone-repair/sitemap.xml
